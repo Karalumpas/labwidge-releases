@@ -1,15 +1,16 @@
-# LabWidge – udgivelser
+# LabWidge – releases
 
-Her ligger installationsprogrammet til **LabWidge** (tidligere IpTrayWidget): en skrivebords-widget til Windows,
-der samler elpris, system, netværk, lyd, Home Assistant, Cloudflare og Proxmox ved uret.
+This repository holds the installer for **LabWidge** (formerly IpTrayWidget): a Windows desktop widget
+that brings together the Danish electricity price, system, network, audio, Home Assistant, Cloudflare and Proxmox by the clock.
+It is available in English and Danish.
 
-**Installér:** hent `LabWidge-Setup.exe` under [Releases](https://github.com/Karalumpas/labwidge-releases/releases/latest) og kør den
-(udgivelser fra før navneskiftet hedder `IpTrayWidget-Setup.exe`).
-SmartScreen kan vise "Windows beskyttede din pc" – vælg "Flere oplysninger" → "Kør alligevel".
+**Install:** download `LabWidge-Setup.exe` under [Releases](https://github.com/Karalumpas/labwidge-releases/releases/latest) and run it
+(releases from before the rename are called `IpTrayWidget-Setup.exe`).
+SmartScreen may show "Windows protected your PC" – choose "More info" → "Run anyway".
 
-**Opdatering:** appen tjekker selv dette repo ved opstart og én gang i døgnet. Har du IpTrayWidget installeret,
-opdaterer den sig selv til LabWidge og tager dine indstillinger, tokens og Home Assistant-login med.
+**Updates:** the app checks this repository at start and once a day. If you have IpTrayWidget installed,
+it updates itself to LabWidge and takes your settings, tokens and Home Assistant login along.
 
-**Kildekode:** [Karalumpas/LabWidge](https://github.com/Karalumpas/LabWidge) (MIT-licens).
-Se også [kodesigneringspolitik](https://github.com/Karalumpas/LabWidge/blob/main/CODE_SIGNING_POLICY.md)
-og [privatliv](https://github.com/Karalumpas/LabWidge/blob/main/PRIVACY.md).
+**Source code:** [Karalumpas/LabWidge](https://github.com/Karalumpas/LabWidge) (MIT license).
+See also the [code signing policy](https://github.com/Karalumpas/LabWidge/blob/main/CODE_SIGNING_POLICY.md)
+and [privacy](https://github.com/Karalumpas/LabWidge/blob/main/PRIVACY.md).
