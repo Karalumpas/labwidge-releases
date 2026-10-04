@@ -1,14 +1,33 @@
-# LabWidge – releases
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karalumpas/LabWidge/main/docs/images/icon.png" width="80" height="80" alt="LabWidge icon">
+</p>
 
-This repository holds the installer for **LabWidge**: a Windows desktop widget that brings together the Danish
-electricity price, system, network, audio, Home Assistant, Cloudflare and Proxmox by the clock.
-It is available in English and Danish.
+<h1 align="center">LabWidge – downloads</h1>
 
-**Install:** download `LabWidge-Setup-<version>.exe` from the [latest release](https://github.com/Karalumpas/labwidge-releases/releases/latest) and run it.
-SmartScreen may show "Windows protected your PC" – choose "More info" → "Run anyway".
+<p align="center">
+  <b>Your electricity price, your PC and your home lab – at a glance, right by the clock.</b><br>
+  A free, open-source desktop widget for Windows 10 and 11.
+</p>
 
-**Updates:** the app checks this repository at start and once a day, and installs new versions when the PC is not in use.
+<p align="center">
+  <a href="https://github.com/Karalumpas/labwidge-releases/releases/latest"><b>⬇ Download the latest version</b></a>
+</p>
 
-**Source code:** [Karalumpas/LabWidge](https://github.com/Karalumpas/LabWidge) (MIT license).
-See also the [code signing policy](https://github.com/Karalumpas/LabWidge/blob/main/CODE_SIGNING_POLICY.md)
-and [privacy](https://github.com/Karalumpas/LabWidge/blob/main/PRIVACY.md).
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karalumpas/LabWidge/main/docs/images/hero.png" width="700" alt="The LabWidge widget in the dark and the light theme">
+</p>
+
+## Install
+
+1. Download **`LabWidge-Setup-<version>.exe`** from the [latest release](https://github.com/Karalumpas/labwidge-releases/releases/latest).
+2. Run it and choose your language and country.
+3. If SmartScreen shows "Windows protected your PC", choose **More info → Run anyway** – the app is not code-signed yet.
+
+LabWidge then keeps itself up to date: it checks this repository once a day and installs new versions while you are away from the PC.
+
+## More
+
+- Features, countries with electricity prices and help: [Karalumpas/LabWidge](https://github.com/Karalumpas/LabWidge)
+- [Privacy](https://github.com/Karalumpas/LabWidge/blob/main/PRIVACY.md) – no telemetry, no account
+- [Code signing policy](https://github.com/Karalumpas/LabWidge/blob/main/CODE_SIGNING_POLICY.md)
+- Open source under the MIT license
